@@ -1,4 +1,7 @@
-.jumbotron {
-    background-image: url("Images\Remotely_Composition.png");
+.jumbotron-fluid {
+    background-image: url('Images/bg-img.jpg');
     background-size: cover;
-  }
+    font-family: Georgia;
+    margin-left: 140px;
+    margin-right: 140px;
+}
