@@ -163,3 +163,12 @@
     display: grid;
     margin-left: 24%;
 }
+.fullImg {
+    width: 1640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    background-color: #1D4D6F;
+    height: 50px;
+}
