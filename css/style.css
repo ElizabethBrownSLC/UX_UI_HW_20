@@ -1,11 +1,18 @@
+.navbar {
+    width: 1640;
+    margin-left: 6%;
+    margin-right: auto;
+}
 .nav {
-    margin-right: 6%;
+    margin-right: 7%;
 }
 .nav a {
     font-family: verdana;
     color: #1D4D6F;
 }
-
+.nav img {
+    height: 30px;
+}
 .jumbotron {
     height:1230px;
     background-attachment: fixed;
@@ -146,11 +153,6 @@
 .wireframes img {
     display: grid;
     margin-left: 14%;
-}
-img {
-    margin-top: none;
-    margin-left: 7%;
-    background-position-x: center;
 }
 .featureComp {
     display: grid;
